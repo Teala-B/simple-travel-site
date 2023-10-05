@@ -1,0 +1,7 @@
+p {
+    font-family: Tahoma, Verdana, Georgia, Times, serif
+}
+
+.leaders td, tr, th, table {
+    border: 2px solid;
+}
